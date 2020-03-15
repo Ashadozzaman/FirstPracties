@@ -14,3 +14,4 @@ git rm -f <file name>
 4.checkout file through the commit 
 git checkout <commit ID>
 5. revert and reset commend littly confusing
+6. creating gitignore file for avoding unnecessary file 
