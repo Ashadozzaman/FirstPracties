@@ -1,0 +1,14 @@
+1.=======file add using git commend========
+RSUSER@DESKTOP-24TRESV MINGW64 ~/Desktop/Test (master)
+$ touch file.txt
+RSUSER@DESKTOP-24TRESV MINGW64 ~/Desktop/Test (master)
+$ touch script.js
+
+RSUSER@DESKTOP-24TRESV MINGW64 ~/Desktop/Test (master)
+$ touch website.html
+
+2. delete single file for git
+git rm <file name>
+3. rename file
+git rm -f <file name>
+4.
