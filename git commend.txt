@@ -15,3 +15,7 @@ git rm -f <file name>
 git checkout <commit ID>
 5. revert and reset commend littly confusing
 6. creating gitignore file for avoding unnecessary file 
+7. create branch
+	git branch <branch name>/ git checkout -b branchName
+8. switch branch < git checkout branch name>
+9. listout branch <git branch -a>
