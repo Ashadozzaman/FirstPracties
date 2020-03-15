@@ -11,4 +11,6 @@ $ touch website.html
 git rm <file name>
 3. rename file
 git rm -f <file name>
-4.
+4.checkout file through the commit 
+git checkout <commit ID>
+5. revert and reset commend littly confusing
