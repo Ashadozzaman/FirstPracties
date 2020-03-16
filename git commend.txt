@@ -19,3 +19,5 @@ git checkout <commit ID>
 	git branch <branch name>/ git checkout -b branchName
 8. switch branch < git checkout branch name>
 9. listout branch <git branch -a>
+10. create folder 
+ mkdir <foldername>
